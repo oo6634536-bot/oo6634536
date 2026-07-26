@@ -32,7 +32,15 @@ Here are some of the tasks and projects I have worked on during my studies:
 
 ---
 
+## 📊 GitHub Stats
+
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oo663453&show_icons=true&theme=nord)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oo663453&layout=compact&theme=nord)
+
+---
+
 ## 📫 Contact Info
 
 * Name: Omar Osama Mohamed El-Sayed
-* Profile: Frontend Web Development Student
+* GitHub: [oo663453](https://github.com/oo663453)
